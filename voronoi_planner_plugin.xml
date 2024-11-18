@@ -1,0 +1,5 @@
+<library path="nav2_voronoi_planner">
+	<class name="nav2_voronoi_planner/VoronoiPlanner" type="nav2_voronoi_planner::VoronoiPlanner" base_class_type="nav2_core::GlobalPlanner">
+	  <description>This is an example plugin which produces voronoi path.</description>
+	</class>
+</library>
